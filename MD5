@@ -1,0 +1,10 @@
+9f9425dcb8f93415801ca42d155efb1a *DESCRIPTION
+baf3a7e5f23c5019a8a350069c180df2 *NAMESPACE
+166231554e094a7623cf277afadbec26 *R/tobit1.R
+48e04f5a10130aa2edfa8077b1c8e04b *R/tobit2.R
+502b6c90d7aa6a482c75964b42b66f7a *R/tobit2derivatives.R
+ba390434be1deb4abd316583fa308ca8 *data/nutrient.rda
+d23e69c503d9afac1e277d54929fc6af *man/cenGAM-package.Rd
+24ddb44c5f280851dcccebed12167192 *man/nutrient.Rd
+f348f8ec1af715f7b2a7cb259659fc8f *man/tobit1.Rd
+26236b3b682f8f58cbffd471c1af6143 *man/tobit2.Rd
